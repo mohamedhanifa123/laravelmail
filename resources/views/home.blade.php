@@ -35,7 +35,7 @@
 
                      <div class="form-group">
                      <button type="submit" class="btn btn-primary">Send Mail</button>
-                     <button type="submit" class="btn btn-primary">Send Mail</button>
+                     
                      
                      </div>      
                     
